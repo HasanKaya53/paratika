@@ -140,14 +140,14 @@ echo $paratika->odemeSorgula("AT7WZYQYGAVL4PUXGKZ2VFJMYMEYA6JSAR42IA7RAWIPODX7")
 
 $urun = array(
   "code"=>12345,
-  "name"=>"trkargom ödeme",
+  "name"=>"ödeme",
   "quantity"=>1,
   "description"=>"Deneme urunu",
   "amount"=>10
 );
 $urun2 = array(
   "code"=>12345,
-  "name"=>"trkargom ödeme",
+  "name"=>"ödeme",
   "quantity"=>1,
   "description"=>"Deneme urunu",
   "amount"=>10
