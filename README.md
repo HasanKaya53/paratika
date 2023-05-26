@@ -1,4 +1,3 @@
-# paratika
 <h1> Paratika Sanal Pos Kurulumu </h1>
 
 
